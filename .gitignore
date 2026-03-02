@@ -15,3 +15,12 @@
 
 .DS_Store
 Thumbs.db
+
+# Visual Studio / Rider
+.vs/
+*.user
+*.suo
+
+# Unity recovery / temp stuff
+Assets/_Recovery/
+UpgradeLog.htm
